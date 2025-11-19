@@ -35,8 +35,8 @@ flowchart LR
 # 🖥️ 프로젝트 화면 예시
 
 ``` markdown
-![클로바 음성 분석]([https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611](https://private-user-images.githubusercontent.com/120786488/516291256-a61c45a8-5856-4943-9f79-5847881a5611.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NjAzNzUsIm5iZiI6MTc2MzU2MDA3NSwicGF0aCI6Ii8xMjA3ODY0ODgvNTE2MjkxMjU2LWE2MWM0NWE4LTU4NTYtNDk0My05Zjc5LTU4NDc4ODFhNTYxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExOVQxMzQ3NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzRiMWVhZmM1YmU4MzZlYjUwNzViNTk4OTM1M2UwMWZmOGI2MjIyNjQxZjlhNmMwOWZjNDkwYjQyMTgzMjE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OKV1sFYC3CeumvZU7mIeGk7pwi8tL4QTJvn9jiTVUXY))
-![STT 결과]([https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9](https://private-user-images.githubusercontent.com/120786488/516291255-bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NjAzNzUsIm5iZiI6MTc2MzU2MDA3NSwicGF0aCI6Ii8xMjA3ODY0ODgvNTE2MjkxMjU1LWJjNDA4MzUwLTRjYzQtNGJkZC1iZWJlLWU1YmMzYzYyZDhkOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExOVQxMzQ3NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZDhlY2ExZTlmNzI0Yjg1YTQwMDkyN2RiNjY1Zjg0YTU3NWEwN2Y5NDNlNmEwMjBhZmM4ZmJhYzNjYzJiYTlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Vpa2C27w3GhUtJ5q5-PfAYntYYf046QUZtVTQUYCGh8))
+![클로바 음성 분석](https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611)
+![STT 결과](https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9)
 ```
 
 ------------------------------------------------------------------------
