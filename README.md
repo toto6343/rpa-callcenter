@@ -79,13 +79,13 @@ flowchart LR
 
 ### **Python**
 
--   `SpeechRecognition`, `pydub` --- STT 처리\
+-   `SpeechRecognition`, `pydub` --- STT 처리
 -   `openpyxl` --- Excel 자동화
 
 ### **AI / STT**
 
--   Google Speech Recognition API\
--   Naver Clova Note\
+-   Google Speech Recognition API
+-   Naver Clova Note
 -   LLM API(텍스트 분석 및 JSON 추출)
 
 ### **Data**
