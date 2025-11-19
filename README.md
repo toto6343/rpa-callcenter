@@ -34,11 +34,9 @@ flowchart LR
 
 # 🖥️ 프로젝트 화면 예시
 
-``` markdown
 <img width="649" alt="클로바 음성 분석" src="https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611" />
 <br>
 <img width="944" alt="STT 결과" src="https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9" />
-```
 ------------------------------------------------------------------------
 
 ## 👥 팀 구성 및 역할
