@@ -35,8 +35,9 @@ flowchart LR
 # 🖥️ 프로젝트 화면 예시
 
 ``` markdown
-![클로바 음성 분석]<img width="649" height="429" alt="Image" src="https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611" />
-![STT 결과]<img width="944" height="255" alt="Image" src="https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9" />
+<img width="649" alt="클로바 음성 분석" src="https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611" />
+<br>
+<img width="944" alt="STT 결과" src="https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9" />
 ```
 ------------------------------------------------------------------------
 
