@@ -35,8 +35,8 @@ flowchart LR
 # 🖥️ 프로젝트 화면 예시(이미지 삽입 템플릿)
 
 ``` markdown
-(https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611)
-(https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9)
+![STT 결과](https://github.com/user-attachments/assets/a61c45a8-5856-4943-9f79-5847881a5611)
+![STT](https://github.com/user-attachments/assets/bc408350-4cc4-4bdd-bebe-e5bc3c62d8d9)
 ```
 
 ------------------------------------------------------------------------
